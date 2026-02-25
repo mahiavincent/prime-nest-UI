@@ -717,7 +717,7 @@ if (typeof window !== 'undefined') {
     const openBtn = document.createElement("button");
     openBtn.id = "ai-open-btn";
     openBtn.innerHTML = `
-        <img src="./assets/houses/logo.jpg" onerror="this.src='data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2220%22%20height%3D%2220%22%20viewBox%3D%220%200%2020%2020%22%3E%3Ccircle%20cx%3D%2210%22%20cy%3D%2210%22%20r%3D%2210%22%20fill%3D%22%23333%22%2F%3E%3C%2Fsvg%3E'" />
+        <img src="https://rojftvtvfvpagbqtsbjx.supabase.co/storage/v1/object/public/prime-nest/assets/houses/logo.jpg" onerror="this.src='data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2220%22%20height%3D%2220%22%20viewBox%3D%220%200%2020%2020%22%3E%3Ccircle%20cx%3D%2210%22%20cy%3D%2210%22%20r%3D%2210%22%20fill%3D%22%23333%22%2F%3E%3C%2Fsvg%3E'" />
         <div>Prime Nest Bistro Assistant</div>
     `;
   
