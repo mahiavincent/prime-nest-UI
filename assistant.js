@@ -532,7 +532,7 @@ if (typeof window !== 'undefined') {
       }
       
       #ai-messages {
-        max-height: 350px;
+        max-height: 400px;
         padding: 10px;
         font-size: 13px;
       }
@@ -643,7 +643,7 @@ if (typeof window !== 'undefined') {
       }
       
       #ai-messages {
-        max-height: 320px;
+        max-height: 380px;
       }
       
       #salutation > div:first-child {
